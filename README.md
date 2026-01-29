@@ -3,7 +3,7 @@
 SOC Analyst with hands-on experience in:
 - Security monitoring & alert triage
 - Networking and traffic analysis
-- Detection engineering fundamentals
+- Detection engineering
 - Home lab experimentation
 
 🔬 **Featured Project**
