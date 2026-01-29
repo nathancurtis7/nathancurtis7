@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Nathan
 
-<!--
-**nathancurtis7/nathancurtis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC Analyst with hands-on experience in:
+- Security monitoring & alert triage
+- Networking and traffic analysis
+- Detection engineering fundamentals
+- Home lab experimentation
 
-Here are some ideas to get you started:
+🔬 **Featured Project**
+- Cybersecurity Home Lab – practical SOC and detection work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certifications
+- ISC2 CC : Certified in Cybersecurity
+- BCS CISMP
+- CySA+ (in progress)
+- Deep understanding of CompTIA Security+ & Network+ (no exam taken)
+
+📍 UK Based
