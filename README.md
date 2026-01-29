@@ -7,7 +7,7 @@ SOC Analyst with hands-on experience in:
 - Home lab experimentation
 
 🔬 **Featured Project**
-- Cybersecurity Home Lab – practical SOC and detection work
+- Cybersecurity Home Lab  (practical SOC and detection work)
 
 📜 Certifications
 - ISC2 CC : Certified in Cybersecurity
