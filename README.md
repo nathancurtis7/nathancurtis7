@@ -12,7 +12,7 @@ SOC Analyst with hands-on experience in:
 📜 Certifications
 - ISC2 CC : Certified in Cybersecurity
 - BCS CISMP
-- CySA+ (in progress)
+- CompTIA CySA+ (in progress)
 - Deep understanding of CompTIA Security+ & Network+ (no exam taken)
 
 📍 UK Based
