@@ -9,6 +9,6 @@ Currently working as a SOC Analyst, with hands-on experience in:
 Certifications:
 - ISC2 CC : Certified in Cybersecurity
 - BCS CISMP
-- Microsoft  (in progress)
+- CompTIA Security+ in progress
 
 📍 UK Based
